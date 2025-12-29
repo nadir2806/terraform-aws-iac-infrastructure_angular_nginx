@@ -3,6 +3,8 @@
 *.tfstate
 *.tfstate.*
 .terraform.lock.hcl
+tfplan.out
+
 
 # Terraform variables
 *.tfvars
